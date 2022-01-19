@@ -20,5 +20,13 @@ public abstract class BaseEntite {
         this.id = id;
     }
     
+
     //commentaire ici
+
+    public String testConfilct() {
+    	
+    	System.out.println("lllmlll");
+    	return null;
+    }
+
 }
