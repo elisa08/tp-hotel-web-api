@@ -19,4 +19,10 @@ public abstract class BaseEntite {
     public void setId(Integer id) {
         this.id = id;
     }
+    
+    
+    public void testConfilct() {
+    	
+    	System.out.println("creer un conflit, le résoudre");
+    }
 }
