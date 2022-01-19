@@ -19,4 +19,6 @@ public abstract class BaseEntite {
     public void setId(Integer id) {
         this.id = id;
     }
+    
+    //commentaire ici
 }
