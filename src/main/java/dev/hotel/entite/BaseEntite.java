@@ -21,7 +21,7 @@ public abstract class BaseEntite {
     }
     
 
-    //commentaire ici
+   
 
     public String testConfilct() {
     	
