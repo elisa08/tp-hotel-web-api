@@ -20,6 +20,9 @@ public abstract class BaseEntite {
         this.id = id;
     }
     public String testConfilct() {
+=======
+
+>>>>>>> maBranche
     	
     	System.out.println("lllmlll");
     	return null;
