@@ -21,8 +21,9 @@ public abstract class BaseEntite {
     }
     
     
-    public void testConfilct() {
+    public String testConfilct() {
     	
-    	System.out.println("creer un conflit, le résoudre");
+    	System.out.println("lllmlll");
+    	return null;
     }
 }
