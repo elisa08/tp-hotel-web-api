@@ -18,9 +18,15 @@ public abstract class BaseEntite {
 
     public void setId(Integer id) {
         this.id = id;
-
+<<<<<<< HEAD
     }
+    
 
+   
+//
+=======
+    } 
+>>>>>>> maNouvelleBranche
     public String testConfilct() {
     	
     	System.out.println("lllmlll");
